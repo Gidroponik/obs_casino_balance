@@ -1,10 +1,19 @@
+В качестве благодарности, не откажусь от рейда, буду признателен - https://www.twitch.tv/misterx777
+
+Если возникли вопросы - https://vk.com/nikolayorlov77
+
+
+-----------------------
+
 *Данный скрипт автоматически будет выставлять баланс в вашем OBS, когда вы будете играть в казино
 поддерживаемые сайты* : **IZZICASINO, DRAGONMONEY, STAKE, VAVADA.**
 
+--------------------
+
 # Инструкция и установка
 1. Нам нужен плагин WebSocket для OBS, версии 4.9 (это важно, так как в более новой версии нельзя запустить вебсокет без пароля). 
-Скачать можно тут - https://github.com/obsproject/obs-websocket/releases/tag/4.9.1  (прямая ссылка - https://github.com/obsproject/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
-2. Скачиваем все файлы и закидываем их в одну папку.
+Скачать можно тут - https://github.com/obsproject/obs-websocket/releases/tag/4.9.1 или  [прямая ссылка на установщик](https://github.com/obsproject/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
+2. Скачиваем все файлы моего скрипта и закидываем их в одну папку.
 3. Заходим в chrome по ссылке - chrome://extensions/
 4. Нажимаем "Загрузить распакованное расширение" и указываем путь до папки.
 5. В OBS создаем источник с названием "Баланс", это важно! если назовете как то по другому, работать не будет.
