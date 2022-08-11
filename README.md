@@ -13,6 +13,10 @@
 # Инструкция и установка
 1. Нам нужен плагин WebSocket для OBS, версии 4.9 (это важно, так как в более новой версии нельзя запустить вебсокет без пароля). 
 Скачать можно тут - https://github.com/obsproject/obs-websocket/releases/tag/4.9.1 или  [прямая ссылка на установщик для Windows](https://github.com/obsproject/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
+2. Перезаходим в OBS, нажимаем **"Инструменты" > "Websocket Server Settings (4.x Compact)**
+3. Выставляем **Server port** : **4444**, Убираем галочку **Enable authentification**, должно получиться как на скрине ниже
+![](photo_2022-08-11_04-05-01.jpg)
+
 2. Скачиваем все файлы моего скрипта и закидываем их в одну папку.
 3. Заходим в chrome по ссылке - **chrome://extensions/**
 4. Нажимаем **"Загрузить распакованное расширение"** и указываем путь до папки.
