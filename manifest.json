@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+
+  "name": "OBS WS CASINO BALANCE",
+  "description": "Скрипт для автоматического парсинга Баланса с Казино в OBS",
+  "version": "1.0",
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://izzicasino1000.com/*", "https://drgn3.casino/*", "https://stake.com/*", "https://vavada.com/*"],
+      "js": ["obs-websocket.js", "casino.js"]
+    }
+  ],
+  "icons": { "64": "icons8-obs-studio-64.png", "128": "icons8-obs-studio-128.png" }
+}
