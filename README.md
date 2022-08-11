@@ -17,6 +17,7 @@
 # Инструкция и установка
 1. Нам нужен плагин WebSocket для OBS, версии 4.9 (это важно, так как в более новой версии нельзя запустить вебсокет без пароля). 
 Скачать можно тут - https://github.com/obsproject/obs-websocket/releases/tag/4.9.1 или  [прямая ссылка на установщик для Windows](https://github.com/obsproject/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
++ устанавливаем и **перезапускаем OBS**
 
 2. Скачиваем все файлы моего скрипта и закидываем их в одну папку.
 ![](photo_2022-08-11_04-08-49.jpg)
