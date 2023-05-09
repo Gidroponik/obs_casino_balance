@@ -1,10 +1,6 @@
 # GOOGLE CHROME РАСШИРЕНИЕ CASINO -> OBS
 
 
-В качестве благодарности, не откажусь от рейда, буду признателен - https://www.twitch.tv/misterx777
-
-Если возникли вопросы - https://vk.com/nikolayorlov77
-
 
 -----------------------
 
